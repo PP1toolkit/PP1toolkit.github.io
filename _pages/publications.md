@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Guideline Toolkit"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 ---
 Background
