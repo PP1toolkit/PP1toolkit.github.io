@@ -106,18 +106,13 @@ To be a responsible engineer takes efforts but it worth! Good luck!
 Reference
 ======
 
-Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible
-innovation. Research policy, 42(9), 1568-1580. Available at: [https://www.sciencedirect.com/science/article/pii/S0048733313000930]
+Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. Research policy, 42(9), 1568-1580. Available at: [https://www.sciencedirect.com/science/article/pii/S0048733313000930]
 
-Maynard, A. (2015), Responsible development of new technologies critical in complex,
-connected world, The Conversation. March 4, 2015 Available at: [https://theconversation.com/responsible-development-of-new-technologies-critical-in-complex-connected-world-38195]
+Maynard, A. (2015), Responsible development of new technologies critical in complex, connected world, The Conversation. March 4, 2015 Available at: [https://theconversation.com/responsible-development-of-new-technologies-critical-in-complex-connected-world-38195]
 
-De Hoop, E., Pols, A., & Romijn, H. (2016). Limits to responsible innovation. Journal of
-Responsible Innovation, 3(2), 110-134. Available at: [https://www.tandfonline.com/doi/full/10.1080/23299460.2016.1231396]
+De Hoop, E., Pols, A., & Romijn, H. (2016). Limits to responsible innovation. Journal of Responsible Innovation, 3(2), 110-134. Available at: [https://www.tandfonline.com/doi/full/10.1080/23299460.2016.1231396]
 
-Owen, R., Macnaghten, P., & Stilgoe, J. (2012). Responsible research and innovation: From
-science in society to science for society, with society. Science and public policy, 39(6), 751-
-760. Available at: [https://academic.oup.com/spp/article/39/6/751/1620724]
+Owen, R., Macnaghten, P., & Stilgoe, J. (2012). Responsible research and innovation: From science in society to science for society, with society. Science and public policy, 39(6), 751-760. Available at: [https://academic.oup.com/spp/article/39/6/751/1620724]
 
 Tavakoli Nabavi, E. (2023). List of KPIs for responsible innovation [Online]. Available at: https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2805714 (Accessed: 23rd May 2023).
 
