@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "PP1GROUP3"
   avatar           : "profile.png"
-  bio              : "BOYA WANG/nHAO YANG/nZISHENG ZHAO"
-  location         : "ANU_PP1"
+  bio              : "BOYA WANG  HAO YANG  ZISHENG ZHAO"
+  location         : "AUSTRALIA NATIONAL UNIVERSITY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "showshowway3@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
