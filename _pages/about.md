@@ -48,7 +48,7 @@ Game rules
 2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. The ecological environment player needs to remain silent.
 3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions.
 4. Continue for three rounds
-5. After the three rounds, all player scores and city development status will be announced. Players are invited to review their decisions and results based on player scores and city development status and discuss the interaction between systems and potential sustainable solutions. The ecological and environmental parties are invited to make independent speeches.
+5. After the three rounds, all player scores and city development status will be announced. Players are invited to review their decisions and results based on player scores and city development status and discuss the interaction between systems and potential sustainable solutions.
 
 
 Round Background
