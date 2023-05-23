@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Game Toolkit"
 permalink: /publications/
 author_profile: true
 ---
