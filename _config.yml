@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Responsible Thinking"
+title                    : "Responsible Thinking Toolkit"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
