@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A Game for Responsible Thinking"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,35 +8,68 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+For the first toolkit, we designed a game based on situational debate.
+The core idea behind our game is to mimic complex situations that involve different systems and stakeholders, by giving diffrent events to activate the actions from each actor in the big system, we can observe how the subsyetms and actors in system interact with each other.
 
-A data-driven personal website
+
+Introduction Of Design
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+We  select urban expansion as our game background, which is also a classic realistic topic in current developing world. The urban expansion will bring several problems. First, it will crowd out natural environment such as the farmland space, resource-use conflicts will happen bettwen the industy companies and the farmers. Second, when the city choose to develop it s economics by developing industry or manufacturing, there will be conflicts between ecosystem protection and local government wealth. Third, it will lead to problems of changes to the benefits of farmers and local citizens. Overally, how to develop a city influence benefits of all the stakeholders in the city-farm system.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+By stakeholder analysis, we know the results are basically decided by the stakeholders with the higher power and higher influence, which refer to the government and companies. However, our game want to set an ideal situation that all the stakeholders except for the ecosystem have equal voice, even the marginalized stakeholders can use their words to persuade the government and industry companies re-consider their decisions and the interests of the marginalized ones.
 
-Getting started
+By debating, the stakeholders can clearly speak out their needs. The interests of each stakeholder will be considered, this might can lead to a sustainable result.
+
+
+Background
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+City A is facing a contradiction between environmental protection and economic development.
+There is a fertile farmland surrounding the city, supplying city dwellers with fresh produce. However, as the city expands and its population grows, the government is under pressure to develop more land for commercial development. This has led to tensions and conflicts of interest between cities and farms.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Stakeholders
+======
+Farmers: focus on their agricultural production and livelihood. However, urban development requires land expropriation, causing farmers to worry about and lose resources.
+City dwellers: want sustainable agricultural supplies and beautiful farm environments, but they also want more residential, industrial and commercial space to support the urban economy. Government officials: are under pressure to provide jobs, improve infrastructure and improve living standards for residents, but also protect the environment.
+Environmental groups: have called for the protection of farmland and ecosystems, stressing the importance of sustainable agriculture and ecological balance. They worry that urban growth will lead to land destruction, water shortages and loss of biodiversity.
+Urban planners: try to strike a balance between environment and urban development.
+New industry enterprises: hope to replace farms for factory construction and use good ecological resources for product production. This will cause damage to the natural ecology, but it will have an immediate effect on the local economic development.
+In this context, players will play different stakeholder roles. Under different decisions and challenges, they need to speak from their own interests, persuade each other, achieve their goals, and win points for themselves. The ideal outcome is for each stakeholder to have an even score, meaning that a balanced and sustainable solution has been found. If the end result is not as desired, one can explore what went wrong in the debate that tipped the balance of interest in a particular direction.
 
-**Markdown generator**
+Through debate and reflection, we can collide with more strategies that are conducive to sustainable development of resources, and gain a deeper understanding of the complex systems involved in urban expansion.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Stakeholders:
+Farmers, residents, government, environmental organizations, urban planners, new industry enterprises, ecological environment
+
+
+
+Game rules
+======
+3 rounds, 7 players
+1. The player chooses a stakeholder role and gets the corresponding role card.
+2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. The ecological environment player needs to remain silent.
+3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions.
+4. Continue for three rounds
+5. After the three rounds, all player scores and city development status will be announced. Players are invited to review their decisions and results based on player scores and city development status and discuss the interaction between systems and potential sustainable solutions. The ecological and environmental parties are invited to make independent speeches.
+
+
+Example scenes
+======
+
+Acquisition of some farmland land to build heavy industrial factories that will bring profits and jobs.
+Success: farmers +5, residents +5, government +10, environmental organizations -10, urban planners -5, new industry enterprises +10, ecological environment -10
+Failure: Farmer +10, Resident +10, Government -5, Environmental Organization +5, City Planner +5, New Industry Enterprise -10, Ecological Environment +10
+
+Second round scene:
+Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years.
+Success: farmers +5, residents +5, government +5, environmental organizations +5, urban planners +5, new industry enterprises -10, ecological environment +10
+Failure: Farmer -5, Resident +10, Government +10, Environmental Organization -5, Urban Planner +5, New Industry Enterprise +10, Ecological Environment -5
+
+Third round scene:
+Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city.
+Success: farmers +5, residents -5, government +5, environmental organizations -5, urban planners +5, new industry enterprises +10, ecological environment -10
+Failure: farmers +5, residents +5, government -5, environmental organizations +5, urban planners +0, new industry enterprises -10, ecological environment +10
+
 
 How to edit your site's GitHub repository
 ------
