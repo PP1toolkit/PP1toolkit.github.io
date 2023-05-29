@@ -36,31 +36,17 @@ By answering the following questions, the engineer can more clearly judge whethe
 
 Questions demo:
 
+<div>
+  <img src="/images/ask.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <p> "What are the possible economic, social or environmental impacts of your project's outputs?"
+</p>
+</div>
+<br>
 
-
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="/images/ask.png" style="width: 100px;">
-    </td>
-    <td style="border: none;">
-      "What are the possible economic, social or environmental impacts of your project's outputs?"
-    </td>
-  </tr>
-</table>
 -	Not to have a perfect and complete answer.
 -	Tell the truth.
 -	Talk about details.
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="/images/anser.jpeg" style="width: 100px;">
-    </td>
-    <td style="border: none;">
-      I run an AR company, my answer could be. It will bring inspiration to the game industry and medical treatment, which can be helpful. But AR may lead to game addiction and higher power consumption, we should think about measures to crackdown on such issues.
-    </td>
-  </tr>
-</table>
+
 <div>
   <img src="/images/anser.jpeg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
   <p>I run an AR company, my answer could be. It will bring inspiration to the game industry and medical treatment, which can be helpful. But AR may lead to game addiction and higher power consumption, we should think about measures to crackdown on such issues.
