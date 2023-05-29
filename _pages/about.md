@@ -81,7 +81,7 @@ Stakeholder Contexts
 <br>
   
 <div>
-  <img src="/images/ecosystem.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <img src="/images/ecosystem.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>Ecosystem: Hope to protect the natural environment as better as possible.</p>
 </div>
 <br>
