@@ -10,7 +10,7 @@ redirect_from:
 
 ![Figure_1](/images/Figure_1.png)
 
-Author Notes (emoji)
+Author Notes :smiley:
 ======
 This game is based on situational debates.
 
@@ -84,10 +84,9 @@ Game rules
 3 rounds, 7 players
 1. The player chooses a stakeholder role and gets the corresponding role card.
 
-
 ![game rule card](/images/game%20rule%20card.jpg)
 
-2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. The ecological environment player needs to remain silent.
+2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. 
 
 ![debate](/images/debate.png)
 
@@ -114,27 +113,30 @@ Players are invited to do the following things:
 
 Round Background
 ======
+First round scene:
+
+"Acquisition of some farmland land to build heavy industrial factories that will bring profits and jobs." :relaxed:
+
+
+| Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Success  | +5  | +5  | +10  | -10  | -5  | +10  | -10  |
+| Failure  | +10  | +10  | -5  | +5  | +5  | -10  | +10  |
+
 Second round scene:
 
-Acquisition of some farmland land to build heavy industrial factories that will bring profits and jobs.
+"Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years." :relaxed:
 
-Success: farmers +5, residents +5, government +10, environmental organizations -10, urban planners -5, new industry enterprises +10, ecological environment -10
-
-Failure: Farmer +10, Resident +10, Government -5, Environmental Organization +5, City Planner +5, New Industry Enterprise -10, Ecological Environment +10
-
-Second round scene:
-
-Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years.
-
-Success: farmers +5, residents +5, government +5, environmental organizations +5, urban planners +5, new industry enterprises -10, ecological environment +10
-
-Failure: Farmer -5, Resident +10, Government +10, Environmental Organization -5, Urban Planner +5, New Industry Enterprise +10, Ecological Environment -5
+| Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Success  | +5  | +5  | +5  | +5  | +5  | -10  | +10  |
+| Failure  | -5  | +10  | +10  | -5  | +5  | +10  | -5  |
 
 Third round scene:
 
-Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city.
+"Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." :relaxed:
 
-Success: farmers +5, residents -5, government +5, environmental organizations -5, urban planners +5, new industry enterprises +10, ecological environment -10
-
-Failure: farmers +5, residents +5, government -5, environmental organizations +5, urban planners +0, new industry enterprises -10, ecological environment +10
-
+| Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Success  | +5  | -5  | +5  | -5  | +5  | +10  | +10  |
+| Failure  | +5  | +5  | -5  | +5  | +0  | -10  | +10  |
