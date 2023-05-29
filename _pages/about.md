@@ -46,37 +46,40 @@ Stakeholder Contexts
 
 <div>
   <img src="/images/farmer.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
-  <p>Your text goes here. You can write multiple paragraphs or add any other Markdown content. The text will appear on the right side of the image.</p>
+  <p>Farmers: focus on their agricultural production and livelihood. However, urban development requires land expropriation, causing farmers to worry about and lose resources.</p>
 </div>
 
-![farmer](/images/farmer.png) Farmers: focus on their agricultural production and livelihood. However, urban development requires land expropriation, causing farmers to worry about and lose resources.
+
+<div>
+  <img src="/images/residents.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>Residents: want sustainable agricultural supplies and beautiful farm environments, but they also want more residential, industrial, and commercial space to support the urban economy.</p>
+</div>
+
+<div>
+  <img src="/images/govern.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>Government: are under pressure to provide jobs, improve infrastructure and improve living standards for residents, but also protect the environment.</p>
+</div>
+
+<div>
+  <img src="/images/environ_group.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>Environmental organizations: have called for the protection of farmland and ecosystems, stressing the importance of sustainable agriculture and ecological balance. They worry that urban growth will lead to land destruction, water shortages, and loss of biodiversity.</p>
+</div>
+
+<div>
+  <img src="/images/urbanPlanner.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>Urban planners: try to strike a balance between environment and urban development.</p>
+</div>
 
 
+<div>
+  <img src="/images/factory.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>New industry enterprises: hope to replace farms for factory construction and use good ecological resources for product production. This will cause damage to the natural ecology, but it will have an immediate effect on the local economic development.</p>
+</div>
 
-
-![Residents](/images/residents.jpeg) Residents: want sustainable agricultural supplies and beautiful farm environments, but they also want more residential, industrial, and commercial space to support the urban economy. 
-
-
-
-![Government](/images/govern.png) Government: are under pressure to provide jobs, improve infrastructure and improve living standards for residents, but also protect the environment.
-
-
-
-![Environmental ](/images/environ_group.jpeg) Environmental organizations: have called for the protection of farmland and ecosystems, stressing the importance of sustainable agriculture and ecological balance. They worry that urban growth will lead to land destruction, water shortages, and loss of biodiversity.
-
-
-
-![Urban](/images/urbanPlanner.jpeg) Urban planners: try to strike a balance between environment and urban development.
-
-
-
-![industry](/images/factory.png) New industry enterprises: hope to replace farms for factory construction and use good ecological resources for product production. This will cause damage to the natural ecology, but it will have an immediate effect on the local economic development.
-
-
-
-![Ecosystem](/images/ecosystem.png) Ecosystem: Hope to protect the natural environment as better as possible
-
-
+<div>
+  <img src="/images/ecosystem.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>Ecosystem: Hope to protect the natural environment as better as possible.</p>
+</div>
 
 
 **What player should do in game**
