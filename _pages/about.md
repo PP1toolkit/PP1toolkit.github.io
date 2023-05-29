@@ -42,7 +42,6 @@ Farmers, residents, government, environmental organizations, urban planners, new
 
 <br>
   
-  
 Stakeholder Contexts
 ======
 
