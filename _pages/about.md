@@ -39,7 +39,6 @@ Stakeholders
 
 Farmers, residents, government, environmental organizations, urban planners, new industry enterprises, ecosystem.
 
-
 <br>
   
 Stakeholder Contexts
@@ -115,17 +114,19 @@ Game Rules
 
 Rounds:3 Players:7
 
-1. The player chooses a stakeholder role and gets the corresponding role card.  <br> ![game rule card](/images/game%20rule%20card.jpg) <br> 
+1. The player chooses a stakeholder role and gets the corresponding role card. 
+ <br> ![game rule card](/images/game%20rule%20card.jpg) <br> 
+  
+2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. 
+<br>  ![debate](/images/debate.png) <br>  
   
   
-  
-2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. <br>  ![debate](/images/debate.png) <br>  
-  
-  
-3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions. <br> ![vote](/images/vote.png) <br>
+3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions.
+ <br> ![vote](/images/vote.png) <br>
   
   
-4. Continue for three rounds  <br> ![speak](/images/spaek.jpeg) <br>  
+4. Continue for three rounds 
+ <br> ![speak](/images/spaek.jpeg) <br>  
   
   
 5. After the three rounds, all player scores and city development status will be announced.
