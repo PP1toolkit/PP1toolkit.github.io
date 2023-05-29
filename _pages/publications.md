@@ -43,16 +43,14 @@ Questions demo:
 </div>
 <br>
 
-
 <div>
-  <img src="/images/thinking.jpg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <img src="/images/thinkinging.jpg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
   <p> -	Not to have a perfect and complete answer.
 -	Tell the truth.
 -	Talk about details.
 </p>
 </div>
 <br>
-
 
 <div>
   <img src="/images/anser.jpeg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
