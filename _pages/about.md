@@ -48,43 +48,43 @@ Stakeholder Contexts
   <img src="/images/farmer.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>Farmers: focus on their agricultural production and livelihood. However, urban development requires land expropriation, causing farmers to worry about and lose resources.</p>
 </div>
-  
+<br>
   
 <div>
   <img src="/images/residents.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>Residents: want sustainable agricultural supplies and beautiful farm environments, but they also want more residential, industrial, and commercial space to support the urban economy.</p>
 </div>
-  
+<br>
   
 <div>
   <img src="/images/govern.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>Government: are under pressure to provide jobs, improve infrastructure and improve living standards for residents, but also protect the environment.</p>
 </div>
-  
+<br>
   
 <div>
   <img src="/images/environ_group.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>Environmental organizations: have called for the protection of farmland and ecosystems, stressing the importance of sustainable agriculture and ecological balance. They worry that urban growth will lead to land destruction, water shortages, and loss of biodiversity.</p>
 </div>
-  
+<br>
   
 <div>
   <img src="/images/urbanPlanner.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>Urban planners: try to strike a balance between environment and urban development.</p>
 </div>
-  
+<br>
   
 <div>
   <img src="/images/factory.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
   <p>New industry enterprises: hope to replace farms for factory construction and use good ecological resources for product production. This will cause damage to the natural ecology, but it will have an immediate effect on the local economic development.</p>
 </div>
-  
+<br>
   
 <div>
-  <img src="/images/ecosystem.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <img src="/images/ecosystem.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
   <p>Ecosystem: Hope to protect the natural environment as better as possible.</p>
 </div>
-  
+<br>
   
 **What player should do in game**
 
@@ -108,11 +108,11 @@ Through debate and reflection, we can collide with more strategies that are cond
 
 Rounds:3 Players:7
 
-1. The player chooses a stakeholder role and gets the corresponding role card.  ![game rule card](/images/game%20rule%20card.jpg)
-2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals.   ![debate](/images/debate.png)
-3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions.  ![vote](/images/vote.png)
+1. The player chooses a stakeholder role and gets the corresponding role card.  ![game rule card](/images/game%20rule%20card.jpg) <br>
+2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals.   ![debate](/images/debate.png) <br>
+3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions.  ![vote](/images/vote.png) <br>
 
-4. Continue for three rounds  ![speak](/images/spaek.jpeg)
+4. Continue for three rounds  ![speak](/images/spaek.jpeg) <br>
 5. After the three rounds, all player scores and city development status will be announced.
 
 
