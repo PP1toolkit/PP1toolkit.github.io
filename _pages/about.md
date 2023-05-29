@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Figure_1](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/Figure_1.png)
+
+![Figure_1](/images/Figure_1.png)
 
 Author Notes (emoji)
 ======
@@ -18,7 +19,8 @@ Through the game, the players can better understand the concepts of stakeholder 
 
 Background
 ======
-![big-city-and-suburbs](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/pngtree-beautiful-big-city-and-suburbs-png-image_5933752.jpeg)
+![big-city-and-suburbs](/images/pngtree-beautiful-big-city-and-suburbs-png-image_5933752.jpeg)
+
 City A is facing a contradiction between environmental protection and economic development.
 
 There is a fertile farmland surrounding the city, supplying city dwellers with fresh produce. However, as the city expands and its population grows, the government is under pressure to develop more land for commercial development. This has led to tensions and conflicts of interest between cities and farms.
@@ -31,26 +33,33 @@ Farmers, residents, government, environmental organizations, urban planners, new
 Stakeholder Contexts
 ======
 Farmers: focus on their agricultural production and livelihood. However, urban development requires land expropriation, causing farmers to worry about and lose resources.
-![farmer](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/farmer.png)
+
+![farmer](/images/farmer.png)
 
 
 Residents: want sustainable agricultural supplies and beautiful farm environments, but they also want more residential, industrial, and commercial space to support the urban economy. 
-![Residents](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/residents.jpeg)
+
+![Residents](/images/residents.jpeg)
 
 Government: are under pressure to provide jobs, improve infrastructure and improve living standards for residents, but also protect the environment.
-![Government](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/govern.png)
+
+![Government](/images/govern.png)
 
 Environmental organizations: have called for the protection of farmland and ecosystems, stressing the importance of sustainable agriculture and ecological balance. They worry that urban growth will lead to land destruction, water shortages, and loss of biodiversity.
-![Environmental ]([https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/govern.png](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/environ_group.jpeg))
+
+![Environmental ](/images/environ_group.jpeg)
 
 Urban planners: try to strike a balance between environment and urban development.
-![Urban](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/urbanPlanner.jpeg)
+
+![Urban](/images/urbanPlanner.jpeg)
 
 New industry enterprises: hope to replace farms for factory construction and use good ecological resources for product production. This will cause damage to the natural ecology, but it will have an immediate effect on the local economic development.
-![industry](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/factory.png)
+
+![industry](/images/factory.png)
 
 Ecosystem: Hope to protect the natural environment as better as possible
-![Ecosystem](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/ecosystem.png)
+
+![Ecosystem](/images/ecosystem.png)
 
 In this context, players will play different stakeholder roles. Under different decisions and challenges, they need to speak from their own interests, persuade each other, achieve their goals, and win points for themselves. The ideal outcome is for each stakeholder to have an even score, meaning that a balanced and sustainable solution has been found. If the end result is not as desired, one can explore what went wrong in the debate that tipped the balance of interest in a particular direction.
 
@@ -74,19 +83,34 @@ Game rules
 ======
 3 rounds, 7 players
 1. The player chooses a stakeholder role and gets the corresponding role card.
-![game rule card](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/game%20rule%20card.jpg)
+
+
+![game rule card](/images/game%20rule%20card.jpg)
 
 2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. The ecological environment player needs to remain silent.
-![debate](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/debate.png)
+
+![debate](/images/debate.png)
 
 3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions.
-![vote](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/vote.png)
+
+![vote](/images/vote.png)
 
 4. Continue for three rounds
-![speak](https://github.com/PP1toolkit/PP1toolkit.github.io/blob/master/images/spaek.jpeg)
 
-5. After the three rounds, all player scores and city development status will be announced. Players are invited to review their decisions and results based on player scores and city development status and discuss the interaction between systems and potential sustainable solutions.
+![speak](/images/spaek.jpeg)
 
+5. After the three rounds, all player scores and city development status will be announced:
+Players are invited to do the following things:
+  --	 Read the scoring rules and discuss whether they are satisfied with the given game-scoring rules.
+  
+  *This discussion is for the cost and gains for each stakeholder are subjective, we hope the stakeholders can be clear about what they want and how much effort is required for stakeholder communication by justifying our scoring system.*
+  
+  -	 They will discuss whether the score distribution is equal and what is their agreeable sustainable strategy for city development.
+    
+    *This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
+    
+    ![discuss](/images/discuss.jpeg)
+    
 
 Round Background
 ======
