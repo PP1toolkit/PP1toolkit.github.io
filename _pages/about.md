@@ -85,7 +85,9 @@ Stakeholder Contexts
   <p>Ecosystem: Hope to protect the natural environment as better as possible.</p>
 </div>
 <br>
-  
+<br>
+
+
 **What player should do in game**
 
 
