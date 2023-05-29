@@ -43,6 +43,12 @@ Farmers, residents, government, environmental organizations, urban planners, new
 
 Stakeholder Contexts
 ======
+
+<div>
+  <img src="/images/farmer.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <p>Your text goes here. You can write multiple paragraphs or add any other Markdown content. The text will appear on the right side of the image.</p>
+</div>
+
 ![farmer](/images/farmer.png) Farmers: focus on their agricultural production and livelihood. However, urban development requires land expropriation, causing farmers to worry about and lose resources.
 
 
