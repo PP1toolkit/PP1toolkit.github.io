@@ -39,20 +39,19 @@ Questions demo:
 <div>
   <img src="/images/ask.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
   <p> "What are the possible economic, social or environmental impacts of your project's outputs?"
-     
-     
-     
-     
-     
 </p>
 </div>
 <br>
 
 
--	Not to have a perfect and complete answer.
+<div>
+  <img src="/images/thinking.jpg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <p> -	Not to have a perfect and complete answer.
 -	Tell the truth.
 -	Talk about details.
-
+</p>
+</div>
+<br>
 
 
 <div>
