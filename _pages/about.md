@@ -186,4 +186,4 @@ Round Background
    
    
 [^1]: Game Designers: Group 3
-All rights served.
+[^2]: All rights served.
