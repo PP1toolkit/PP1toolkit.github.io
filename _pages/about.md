@@ -40,7 +40,6 @@ Stakeholders
 Farmers, residents, government, environmental organizations, urban planners, new industry enterprises, ecosystem.
 
 <br>
-  
 Stakeholder Contexts
 ======
 
@@ -106,8 +105,8 @@ The ideal outcome is for each stakeholder to have an even score, meaning that a 
 
 
 Through debate and reflection, we can collide with more strategies that are conducive to the sustainable development of resources and gain a deeper understanding of the complex systems involved in urban expansion.
-
-
+  
+  
 Game Rules
 ======
 
