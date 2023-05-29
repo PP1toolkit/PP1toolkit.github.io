@@ -38,12 +38,17 @@ Questions demo:
 
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/images/ask.png" style="width: 10%; object-fit: cover;">
-  <div>
-    “What are the possible economic, social or environmental impacts of your project's outputs?”
-  </div>
-</div>
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="/images/ask.png" style="width: 100px;">
+    </td>
+    <td style="border: none;">
+      "What are the possible economic, social or environmental impacts of your project's outputs?"
+    </td>
+  </tr>
+</table>
+
 
 | ![Image](/images/ask.png) | "What are the possible economic, social or environmental impacts of your project's outputs?" |
 |:---:|:---|
