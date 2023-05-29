@@ -28,7 +28,7 @@ List of KPIs for responsible innovation (Tavakoli Nabavi, 2023) presents many cl
 
 ![principle](/images/prin2.jpeg)
 
-We combined anticipation-reflextivity-inclusion-responsiveness with the KPI list, transformed the theory into specific self-assessment questions, proposed a question-based guideline to help engineers evaluate whether their technology meets the requirements of responsible engineering thinking and practice standards, and give them relevant tips and behavioral guidance.
+We combined anticipation-reflextivity-inclusion-responsiveness with the KPI list, transformed the theory into specific self-assessment questions, proposed a question-based guideline to help engineers evaluate whether their technology meets the requirements of responsible engineering thinking and practice standards, and give them relevant tips and behavioral guidance.😜
 
 Guideline
 ======
@@ -43,9 +43,13 @@ Questions demo:
 </div>
 <br>
 
+
+
 -	Not to have a perfect and complete answer.
 -	Tell the truth.
 -	Talk about details.
+
+
 
 <div>
   <img src="/images/anser.jpeg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
@@ -125,15 +129,15 @@ What steps has your project taken to ensure that project outcomes are socially i
 
 Result Analysis
 ======
-If you have clear answers to the above questions, congratulations on your complete thinking on the responsible innovation and implementation of your project!
+😀If you have clear answers to the above questions, congratulations on your complete thinking on the responsible innovation and implementation of your project!
 
-If you are confident that the mechanisms in your project can prevent you from all the possible problems mentioned in the guideline, well done! You are a responsible engineer!
+😉If you are confident that the mechanisms in your project can prevent you from all the possible problems mentioned in the guideline, well done! You are a responsible engineer!
 
-If your answers to the questions are vague, please go through them again until you can clearly state your answers!
+😁If your answers to the questions are vague, please go through them again until you can clearly state your answers!
 
-If you are not sure whether you have enough measures to deal with all the possible conditions mentions in the guideline, please think and discuss with your workmates!
+😌If you are not sure whether you have enough measures to deal with all the possible conditions mentions in the guideline, please think and discuss with your workmates!
 
-To be a responsible engineer takes efforts but it worth! Good luck!
+To be a responsible engineer takes efforts but it worth! Good luck!😊
 
 ![goodluck](/images/luck.png)
 
