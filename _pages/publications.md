@@ -36,12 +36,7 @@ By answering the following questions, the engineer can more clearly judge whethe
 
 Questions demo:
 
-<div>
-  <img src="/images/ask.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
-  <p>“What are the possible economic, social or environmental impacts of your project's outputs?”
-</p>
-</div>
-<br>
+
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/images/ask.png" style="width: 10%; object-fit: cover;">
@@ -49,6 +44,9 @@ Questions demo:
     “What are the possible economic, social or environmental impacts of your project's outputs?”
   </div>
 </div>
+
+| ![Image](/images/ask.png) | "What are the possible economic, social or environmental impacts of your project's outputs?" |
+|:---:|:---|
 
 
 
