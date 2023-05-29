@@ -169,7 +169,7 @@ Round Background
 | Success  | +5  | +5  | +5  | +5  | +5  | -10  | +10  |
 | Failure  | -5  | +10  | +10  | -5  | +5  | +10  | -5  |
    
-  
+<br>  
 **Third round scene:**
 
 "Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." 😋
