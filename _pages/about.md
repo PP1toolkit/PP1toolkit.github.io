@@ -128,22 +128,20 @@ Rounds:3 Players:7
   
   
 5. After the three rounds, all player scores and city development status will be announced.
+<br>
 Players are invited to do the following things:
-  
-  
+<br>
   --	 Read the scoring rules and discuss whether they are satisfied with the given game-scoring rules.
-  
-  
+<br>
   >*This discussion is for the cost and gains for each stakeholder are subjective, we hope the stakeholders can be clear about what they want and how much effort is required for stakeholder communication by justifying our scoring system.*
 
-  
-  
+<br>
   --	 They will discuss whether the score distribution is equal and what is their agreeable sustainable strategy for city development.
-  
+<br>
 
   >*This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
-  
-  
+
+<br>
 ![discuss](/images/discuss.jpeg)
     
 
@@ -162,7 +160,7 @@ Round Background
 | Failure  | +10  | +10  | -5  | +5  | +5  | -10  | +10  |
   
   
-  
+<br>
 **Second round scene:**
 
 "Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years." 😜
@@ -173,7 +171,7 @@ Round Background
 | Failure  | -5  | +10  | +10  | -5  | +5  | +10  | -5  |
   
   
-  
+<br>  
 **Third round scene:**
 
 "Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." 😋
