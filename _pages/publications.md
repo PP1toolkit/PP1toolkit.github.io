@@ -4,23 +4,56 @@ title: "Guideline Toolkit"
 permalink: /publications/
 author_profile: true
 ---
-Background
-======
+
+**Background**
 New technology is a double-edged sword, bringing hope to the future of human society and at the same time bringing crisis to mankind. The large-scale power outage in India has affected 600 million people, and the development of AI technology and DNA technology has also made many technology practitioners worry about the technology-oriented future of mankind (Maynard, 2015)。
 
-As an engineer, it is important to learn to build technologies that do not harm the environment. A good engineer should build an engineering system that will not harm the surrounding environment, which is a more robust and trustworthy engineering system. Considering its impact on society, the environment, and ethics in the use of technology makes engineer’s own technology sustainable and better preserved. Avoiding the construction of technologies that negatively impact any individual, community, environment can benefit social well-being (Tavakoli Nabavi, 2023)。
+![news](/images/news.jpeg)
+
+<div>
+  <img src="/images/enginner.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <p>As an engineer, it is important to learn to build technologies that do not harm the environment. A good engineer should build an engineering system that will not harm the surrounding environment, which is a more robust and trustworthy engineering system. Considering its impact on society, the environment, and ethics in the use of technology makes engineer’s own technology sustainable and better preserved. Avoiding the construction of technologies that negatively impact any individual, community, environment can benefit social well-being (Tavakoli Nabavi, 2023)。</p>
+</div>
+<br>
+
+
 
 Methodology
 ======
 Through specfic thinking, engineers can avoid having their technology negatively impact the interactive environment. The theory of responsible innovation (Stilgoe, Owen, & Macnaghten, 2013; De Hoop, Pols & Romijn, 2016; Owen, Macnaghten & Stilgoe, 2012)) proposed a high-level thinking framework to guide engineers in such thinking. It proposes four directions of thinking, namely: Anticipation, Reflexivity, Inclusion and Responsiveness. Anticipation means that researchers have to foresee the results of their technology, reflexivity means that engineers have the responsibility to evaluate their own technology morally and ethically, and inclusion means that engineers should take opinions from the stakeholders and the wider public into consideration, responsiveness means that engineers should ensure that their innovations can make timely changes based on changing stakeholder requirements and public values. Engineers need to take these foresights, evaluation, considerations, and external requirements as references, and adjust their own technology development direction or process to ensure that their technology is responsible.
 
+![principle](/images/principle.jpeg)
+
 List of KPIs for responsible innovation (Tavakoli Nabavi, 2023) presents many classic points for consideration in current technology development, which are also useful for responsible technology innovation and implementation.
+
+![principle](/images/prin2.jpeg)
 
 We combined anticipation-reflextivity-inclusion-responsiveness with the KPI list, transformed the theory into specific self-assessment questions, proposed a question-based guideline to help engineers evaluate whether their technology meets the requirements of responsible engineering thinking and practice standards, and give them relevant tips and behavioral guidance.
 
 Guideline
 ======
 By answering the following questions, the engineer can more clearly judge whether his behavior meets the requirements, and what he can do.
+
+Questions demo:
+
+<div>
+  <img src="/images/ask.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <p>“What are the possible economic, social or environmental impacts of your project's outputs?”
+</p>
+</div>
+<br>
+
+-	Not to have a perfect and complete answer.
+-	Tell the truth.
+-	Talk about details.
+
+<div>
+  <img src="/images/anser.jpeg" alt="Image" width="150px" style="float: left; margin-right: 10px;">
+  <p>I run an AR company, my answer could be. It will bring inspiration to the game industry and medical treatment, which can be helpful. But AR may lead to game addiction and higher power consumption, we should think about measures to crackdown on such issues.
+</p>
+</div>
+<br>
+
 
 **1.Anticipation Analysis:**
 
@@ -101,6 +134,8 @@ If your answers to the questions are vague, please go through them again until y
 If you are not sure whether you have enough measures to deal with all the possible conditions mentions in the guideline, please think and discuss with your workmates!
 
 To be a responsible engineer takes efforts but it worth! Good luck!
+
+![goodluck](/images/luck.png)
 
 
 Reference
