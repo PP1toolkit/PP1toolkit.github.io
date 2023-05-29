@@ -10,7 +10,7 @@ redirect_from:
 
 ![Figure_1](/images/Figure_1.png)
 
-Author Notes :smiley:
+Author Notes 😀
 ======
 This game is based on situational debates.
 
@@ -104,9 +104,9 @@ Players are invited to do the following things:
   
   *This discussion is for the cost and gains for each stakeholder are subjective, we hope the stakeholders can be clear about what they want and how much effort is required for stakeholder communication by justifying our scoring system.*
   
-  -	 They will discuss whether the score distribution is equal and what is their agreeable sustainable strategy for city development.
+  --	 They will discuss whether the score distribution is equal and what is their agreeable sustainable strategy for city development.
     
-    *This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
+  *This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
     
     ![discuss](/images/discuss.jpeg)
     
@@ -115,7 +115,7 @@ Round Background
 ======
 First round scene:
 
-"Acquisition of some farmland land to build heavy industrial factories that will bring profits and jobs." :relaxed:
+"Acquisition of some farmland land to build heavy industrial factories that will bring profits and jobs." 😀
 
 
 | Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
@@ -125,7 +125,7 @@ First round scene:
 
 Second round scene:
 
-"Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years." :relaxed:
+"Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years." 😀
 
 | Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -134,7 +134,7 @@ Second round scene:
 
 Third round scene:
 
-"Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." :relaxed:
+"Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." 😀
 
 | Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
