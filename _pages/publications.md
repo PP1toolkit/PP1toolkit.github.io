@@ -44,7 +44,7 @@ Questions demo:
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/images/ask.png" style="width: 30%; object-fit: cover;">
+  <img src="/images/ask.png" style="width: 10%; object-fit: cover;">
   <div>
     “What are the possible economic, social or environmental impacts of your project's outputs?”
   </div>
