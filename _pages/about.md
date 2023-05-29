@@ -140,7 +140,7 @@ Round Background
 
 "Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years." 😜
 
-| Result\Actor  | Farmer | Residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
+| Result\Actor  | Farmer | Residents  | Government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Success  | +5  | +5  | +5  | +5  | +5  | -10  | +10  |
 | Failure  | -5  | +10  | +10  | -5  | +5  | +10  | -5  |
@@ -149,7 +149,7 @@ Round Background
 
 "Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." 😋
 
-| Result\Actor  | farmer | residents  | government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
+| Result\Actor  | Farmer | Residents  | Government | Environmental organizations  | Urban planners | New industry enterprises | Ecosystem |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Success  | +5  | -5  | +5  | -5  | +5  | +10  | +10  |
 | Failure  | +5  | +5  | -5  | +5  | +0  | -10  | +10  |
