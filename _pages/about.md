@@ -128,18 +128,22 @@ Rounds:3 Players:7
   
   
 5. After the three rounds, all player scores and city development status will be announced.
-<br>
 Players are invited to do the following things:
-<br>
+  
+  
   --	 Read the scoring rules and discuss whether they are satisfied with the given game-scoring rules.
- <br> 
+  
+  
   >*This discussion is for the cost and gains for each stakeholder are subjective, we hope the stakeholders can be clear about what they want and how much effort is required for stakeholder communication by justifying our scoring system.*
 
-<br>
+  
+  
   --	 They will discuss whether the score distribution is equal and what is their agreeable sustainable strategy for city development.
- <br>   
+  
+
   >*This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
-<br>    
+  
+  
 ![discuss](/images/discuss.jpeg)
     
 
