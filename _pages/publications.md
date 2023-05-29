@@ -39,13 +39,14 @@ Questions demo:
 <div>
   <img src="/images/ask.png" alt="Image" width="150px" style="float: left; margin-right: 10px;">
   <p> "What are the possible economic, social or environmental impacts of your project's outputs?"
+     
+     
+     
+     
+     
 </p>
 </div>
 <br>
-
-
-
-
 
 
 -	Not to have a perfect and complete answer.
