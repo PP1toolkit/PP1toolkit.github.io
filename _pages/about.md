@@ -141,9 +141,9 @@ Players are invited to do the following things:
 
   >*This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
 
-<br>
 ![discuss](/images/discuss.jpeg)
 
+<br>
 
 Round Background
 ======
