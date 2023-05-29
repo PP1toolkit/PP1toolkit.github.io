@@ -40,7 +40,7 @@ Stakeholders
 Farmers, residents, government, environmental organizations, urban planners, new industry enterprises, ecosystem.
 
 
-
+<br>
 Stakeholder Contexts
 ======
 
@@ -108,11 +108,16 @@ The ideal outcome is for each stakeholder to have an even score, meaning that a 
 Through debate and reflection, we can collide with more strategies that are conducive to the sustainable development of resources and gain a deeper understanding of the complex systems involved in urban expansion.
 
 
-**Game rules**
+Game Rules
+======
+
 
 Rounds:3 Players:7
 
-1. The player chooses a stakeholder role and gets the corresponding role card.  <br> ![game rule card](/images/game%20rule%20card.jpg) <br>
+1. The player chooses a stakeholder role and gets the corresponding role card.  <br> ![game rule card](/images/game%20rule%20card.jpg) <br> 
+  
+  
+  
 2. The host announces the background of the current round. Players are invited to debate according to their own interests and role goals. <br>  ![debate](/images/debate.png) <br>
 3. Players vote. Scores the player based on whether the decision was reached or not. Players will know their scores only after the game is over, and they will compare their mentally expected scores with their actual scores and reflect on their actions. <br> ![vote](/images/vote.png) <br>
 
@@ -148,8 +153,9 @@ Round Background
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Success  | +5  | +5  | +10  | -10  | -5  | +10  | -10  |
 | Failure  | +10  | +10  | -5  | +5  | +5  | -10  | +10  |
-
-
+  
+  
+  
 **Second round scene:**
 
 "Protect farmland areas and refuse to occupy farmland areas to develop any other industries. Build an agricultural ecological base, develop agricultural high-tech, and there may be high profits in 10 years." 😜
@@ -158,7 +164,9 @@ Round Background
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Success  | +5  | +5  | +5  | +5  | +5  | -10  | +10  |
 | Failure  | -5  | +10  | +10  | -5  | +5  | +10  | -5  |
-
+  
+  
+  
 **Third round scene:**
 
 "Abandoning agricultural development, the city completely turned to other industries for development. Move all the population of the farmland area to the city." 😋
