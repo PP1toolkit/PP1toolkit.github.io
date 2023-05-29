@@ -128,15 +128,14 @@ Rounds:3 Players:7
   
   
 5. After the three rounds, all player scores and city development status will be announced.
-<br>
-
+<br/>
 Players are invited to do the following things:
-
-<br>
+<br/>
   --	 Read the scoring rules and discuss whether they are satisfied with the given game-scoring rules.
-<br>
+<br/>
   >*This discussion is for the cost and gains for each stakeholder are subjective, we hope the stakeholders can be clear about what they want and how much effort is required for stakeholder communication by justifying our scoring system.*
-<br>
+
+<br/>
 
   --	 They will discuss whether the score distribution is equal and what is their agreeable sustainable strategy for city development.
 <br>
@@ -147,6 +146,7 @@ Players are invited to do the following things:
 ![discuss](/images/discuss.jpeg)
     
 <br>
+
 Round Background
 ======
 
@@ -170,8 +170,7 @@ Round Background
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Success  | +5  | +5  | +5  | +5  | +5  | -10  | +10  |
 | Failure  | -5  | +10  | +10  | -5  | +5  | +10  | -5  |
-  
-  
+   
 <br>  
 **Third round scene:**
 
