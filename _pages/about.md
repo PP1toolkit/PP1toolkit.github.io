@@ -98,7 +98,8 @@ Game rules
 
 ![speak](/images/spaek.jpeg)
 
-5. After the three rounds, all player scores and city development status will be announced:
+5. After the three rounds, all player scores and city development status will be announced.
+
 Players are invited to do the following things:
   --	 Read the scoring rules and discuss whether they are satisfied with the given game-scoring rules.
   
@@ -108,7 +109,7 @@ Players are invited to do the following things:
     
   *This discussion is to summarize their opinions and test whether there can be a strategy that satisfies all requirements of the stakeholders.*
     
-    ![discuss](/images/discuss.jpeg)
+![discuss](/images/discuss.jpeg)
     
 
 Round Background
