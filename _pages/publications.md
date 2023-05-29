@@ -43,12 +43,13 @@ Questions demo:
 </div>
 <br>
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/ask.png" style="width: 50%; object-fit: cover;">
-  <div style="margin-left: 20px;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="/images/ask.png" style="width: 30%; object-fit: cover;">
+  <div>
     “What are the possible economic, social or environmental impacts of your project's outputs?”
   </div>
 </div>
+
 
 
 -	Not to have a perfect and complete answer.
