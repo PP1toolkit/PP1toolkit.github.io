@@ -45,6 +45,9 @@ Questions demo:
 
 
 
+
+
+
 -	Not to have a perfect and complete answer.
 -	Tell the truth.
 -	Talk about details.
