@@ -63,7 +63,7 @@ Stakeholder Contexts
 <br>
   
 <div>
-  <img src="/images/environ_group.jpeg" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <img src="/images/environ_group.jpeg" alt="Image" width="120px" style="float: left; margin-right: 10px;">
   <p>Environmental organizations: have called for the protection of farmland and ecosystems, stressing the importance of sustainable agriculture and ecological balance. They worry that urban growth will lead to land destruction, water shortages, and loss of biodiversity.</p>
 </div>
 <br>
@@ -75,7 +75,7 @@ Stakeholder Contexts
 <br>
   
 <div>
-  <img src="/images/factory.png" alt="Image" width="100px" style="float: left; margin-right: 10px;">
+  <img src="/images/factory.png" alt="Image" width="120px" style="float: left; margin-right: 10px;">
   <p>New industry enterprises: hope to replace farms for factory construction and use good ecological resources for product production. This will cause damage to the natural ecology, but it will have an immediate effect on the local economic development.</p>
 </div>
 <br>
